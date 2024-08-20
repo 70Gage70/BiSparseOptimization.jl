@@ -1,0 +1,13 @@
+name = "BiSparseOptimization"
+uuid = "62e54f49-42bd-4660-9cb0-b482eba0584b"
+authors = ["Gage Bonner <gage.bonner@gmail.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
